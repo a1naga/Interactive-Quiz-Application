@@ -1,0 +1,261 @@
+<questionBank>
+	<topic name="Space">
+		<entry> 
+			<question>What is the closest planet to the Sun?</question>
+			<answer>Mercury</answer>
+			<type>multiple_choice</type>
+			<image>/quiz-images/planets.jpeg</image>
+			<options>Mercury#Venus#Jupiter#Earth</options>
+			<score>5</score>
+		</entry>
+		<entry> 
+			<question>What is the farthest planet from the Sun?</question>
+			<answer>Pluto</answer>
+			<type>multiple_choice</type>
+			<image>/quiz-images/planets.jpeg</image>
+			<options>Mercury#Venus#Pluto#Earth</options>
+			<score>5</score>
+		</entry>	
+		<entry> 
+			<question>What is the name of the 2nd biggest planet in our solar system?</question>
+			<answer>Saturn</answer>
+			<type>multiple_choice</type>
+			<image>/quiz-images/saturn.jpeg</image>
+			<options>Mercury#Saturn#Jupiter#Earth</options>
+			<score>5</score>
+		</entry>	
+		<entry> 
+			<question>What is the hottest planet in our solar system?</question>
+			<answer>Venus</answer>
+			<type>multiple_choice</type>
+			<image></image>
+			<options>Mercury#Venus#Saturn#Earth</options>
+			<score>5</score>
+		</entry>	
+		<entry> 
+			<question>What planet is famous for its big red spot on it?</question>
+			<answer>Jupiter</answer>
+			<type>multiple_choice</type>
+			<image>/quiz-images/jupiter.jpeg</image>
+			<options>Saturn#Venus#Jupiter#Earth</options>
+			<score>5</score>
+		</entry>	
+		<entry> 
+			<question>What planet is famous for the beautiful rings that surround it?</question>
+			<answer>Saturn</answer>
+			<type>multiple_choice</type>
+			<image>/quiz-images/saturn.jpeg</image>
+			<options>Saturn#Venus#Jupiter#Earth</options>
+			<score>5</score>
+		</entry>
+		<entry> 
+			<question>Earth is located in which galaxy?</question>
+			<answer>Milky Way</answer>
+			<type>multiple_choice</type>
+			<image>/quiz-images/milky_way.jpeg</image>
+			<options>Milky Way#Centaurus#Triangulum</options>
+			<score>5</score>
+		</entry>
+		<entry> 
+			<question>What is the name of the force holding us to the Earth?</question>
+			<answer>Gravity</answer>
+			<type>multiple_choice</type>
+			<image></image>
+			<options>Gravity#Centrifugal#hydro</options>
+			<score>5</score>
+		</entry>
+		<entry> 
+			<question>Which Planet Has the Most Moons?</question>
+			<answer>Jupiter</answer>
+			<type>multiple_choice</type>
+			<image>/quiz-images/jupiter_with_moons.jpeg</image>
+			<options>Saturn#Venus#Jupiter#Earth</options>
+			<score>5</score>
+		</entry>
+		<entry> 
+			<question>What was the name of the Earth's first artificial satellite?</question>
+			<answer>Sputnik 1</answer>
+			<type>multiple_choice</type>
+			<image>/quiz-images/satellite.jpeg</image>
+			<options>Telos 1#Telstar 1#Sputnik 1#Explorer 1</options>
+			<score>5</score>
+		</entry>
+		<entry> 
+			<question>What is the nucleus of a comet primarily made of?</question>
+			<answer>Ice and Dust</answer>
+			<type>multiple_choice</type>
+			<image>/quiz-images/comet.jpg</image>
+			<options>Ice and Dust#Rock#Hopes and Dreams#Ice</options>
+			<score>5</score>
+		</entry>
+		<entry> 
+			<question>The closest star to the sun is:</question>
+			<answer>Proxima Centauri</answer>
+			<type>multiple_choice</type>
+			<image></image>
+			<options>Star Light#Proxima Centauri#Alpha Centauri A</options>
+			<score>5</score>
+		</entry>
+	</topic>
+
+	
+	<topic name="Geography">
+		<entry> 
+			<question>How many continents are there on Earth?</question>
+			<answer>7</answer>
+			<type>multiple_choice</type>
+			<image>/quiz-images/worldMap.gif</image>
+			<options>4#7#6#5</options>
+			<score>5</score>
+		</entry>
+		<entry> 
+			<question>The intersecting lines drawn on maps and globes are</question>
+			<answer>geographic grids</answer>
+			<type>multiple_choice</type>
+			<image>/quiz-images/lat_long.jpeg</image>
+			<options>latitudes#longitudes#geographic grids#None of the above</options>
+			<score>5</score>
+		</entry>
+		<entry> 
+			<question>What country is home to the tallest mountain in the world, Mount Everest?</question>
+			<answer>Nepal</answer>
+			<type>multiple_choice</type>
+			<image>/quiz-images/everest.jpeg</image>
+			<options>Nepal#Mexico#Bhutan#South Africa</options>
+			<score>5</score>
+		</entry>
+		<entry> 
+			<question>The landmass of which of the following continents is the least?</question>
+			<answer>Australia</answer>
+			<type>multiple_choice</type>
+			<image></image>
+			<options>Australia#Asia#Africa#Europe</options>
+			<score>5</score>
+		</entry>
+		<entry> 
+			<question>Which of the following is tropical grassland?</question>
+			<answer>Savannah</answer>
+			<type>multiple_choice</type>
+			<image>/quiz-images/grassland.jpeg</image>
+			<options>Pampas#Savannah#Taiga#Prairies</options>
+			<score>5</score>
+		</entry>
+		<entry> 
+			<question>The temperature increases rapidly after</question>
+			<answer>ionosphere</answer>
+			<type>multiple_choice</type>
+			<image>/quiz-images/ionosphere.jpeg</image>
+			<options>exosphere#stratosphere#ionosphere#troposphere</options>
+			<score>5</score>
+		</entry>
+		<entry> 
+			<question>The largest glaciers are</question>
+			<answer>continental</answer>
+			<type>multiple_choice</type>
+			<image>/quiz-images/glaciers.jpeg</image>
+			<options>mountain#alpine#piedmont#continental</options>
+			<score>5</score>
+		</entry>
+		<entry> 
+			<question>The least explosive type of volcano is called</question>
+			<answer>Basalt plateau</answer>
+			<type>multiple_choice</type>
+			<image>/quiz-images/volcano.jpeg</image>
+			<options>Cinder cone#Basalt plateau#Shield volcanoes#Composite volcanoes</options>
+			<score>5</score>
+		</entry>
+		<entry> 
+			<question>Which country is called Land of the Rising Sun?</question>
+			<answer>Japan</answer>
+			<type>text</type>
+			<image>/quiz-images/Japan.jpeg</image>
+			<score>5</score>
+		</entry>
+		<entry> 
+			<question>Where the Earth's circumference is at its largest?</question>
+			<answer>Equator</answer>
+			<type>multiple_choice</type>
+			<image>/quiz-images/equator.jpeg</image>
+			<options>Equator#Tropic of Capricon#Tropic of Cancer</options>			
+			<score>5</score>
+		</entry>		
+	</topic>
+	
+	<topic name="Computer">
+		<entry> 
+			<question>Which of the following memories is an optical memory?</question>
+			<answer>CD–ROM</answer>
+			<type>multiple_choice</type>
+			<image></image>
+			<options>Core Memories#CD–ROM#Bubble Memories#Floppy Disk</options>
+			<score>5</score>
+		</entry>
+		<entry> 
+			<question>What is CPU?</question>
+			<answer>Central Processing Unit</answer>
+			<type>text</type>
+			<image>/quiz-images/CPU.jpeg</image>
+			<score>5</score>
+		</entry>
+		<entry> 
+			<question>DNS refers to</question>
+			<answer>Domain Name System</answer>
+			<type>text</type>
+			<image>/quiz-images/dns.jpeg</image>
+			<score>5</score>
+		</entry>
+		<entry> 
+			<question>Java was originally invented by</question>
+			<answer>Sun</answer>
+			<type>multiple_choice</type>
+			<image>/quiz-images/java.jpeg</image>
+			<options>Novell#Oracle#Sun#Microsoft</options>
+			<score>5</score>
+		</entry>
+		<entry> 
+			<question>How many bits form one byte? (Enter a Digit)</question>
+			<answer>8</answer>
+			<type>text</type>
+			<image></image>
+			<score>5</score>
+		</entry>
+		<entry> 
+			<question>What is the full form of lP?</question>
+			<answer>Internet protocol</answer>
+			<type>text</type>
+			<image></image>
+			<score>5</score>
+		</entry>
+		<entry> 
+			<question>What does FTP stand for?</question>
+			<answer>File Transfer Protocol</answer>
+			<type>text</type>
+			<image>/quiz-images/ftp.jpeg</image>
+			<score>5</score>
+		</entry>
+		<entry> 
+			<question>Select the smallest memory size</question>
+			<answer>Kilobyte</answer>
+			<type>multiple_choice</type>
+			<image></image>
+			<options>Terabyte#Gigabyte#Kilobyte#Megabyte</options>
+			<score>5</score>
+		</entry>
+		<entry> 
+			<question>What is called the brain of a Computer?</question>
+			<answer>CPU</answer>
+			<type>multiple_choice</type>
+			<image></image>
+			<options>CPU#RAM#Motherboard#Monitor</options>
+			<score>5</score>
+		</entry>
+		<entry> 
+			<question>Choose the output device from the list below.</question>
+			<answer>Printer</answer>
+			<type>multiple_choice</type>
+			<image></image>
+			<options>Keyboard#Scanner#Mouse#Printer</options>
+			<score>5</score>
+		</entry>
+	</topic>
+</questionBank>
